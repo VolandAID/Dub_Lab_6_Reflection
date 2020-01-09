@@ -1,0 +1,5 @@
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Reflection\bin\Debug\Dub_Lab_6_Reflection.exe.config
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Reflection\bin\Debug\Dub_Lab_6_Reflection.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Reflection\bin\Debug\Dub_Lab_6_Reflection.pdb
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Reflection\obj\Debug\Dub_Lab_6_Reflection.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Reflection\obj\Debug\Dub_Lab_6_Reflection.pdb
